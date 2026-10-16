@@ -1,2 +1,1 @@
-Little Routes v1.1.8
-Upload all files to GitHub repository root. Do not delete PWA or clear Safari website data before backing up.
+Little Routes v1.1.9 - Upload all files to the root of GitHub Pages repository. Back up existing data before testing.
