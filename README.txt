@@ -1,1 +1,1 @@
-Little Routes v1.1.9 - Upload all files to the root of GitHub Pages repository. Back up existing data before testing.
+Little Routes v1.1.10 — Upload all files to GitHub Pages repository root. Back up existing app data before updating. Existing localStorage is retained.
