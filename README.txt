@@ -1,1 +1,3 @@
-Little Routes v1.1.15: draft-first travel cards; cancel/save/delete confirmation; timeline gap and conflict calculation; fixed-time protection. Back up before updating.
+Little Routes v1.1.16
+Upload all ZIP files to the root of your GitHub Pages repository.
+Do not delete the existing home-screen app or clear site data before making a full backup.
